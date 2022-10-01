@@ -1,1 +1,1 @@
-# ArithmeticalCircle
+# Arithmetical Circle
