@@ -1,5 +1,6 @@
 # Arithmetical Circle
 
+
 The "Arithmetical Circle" is a python tool and API function that proposed to contribute and extend code in `math` dot functions.
 
 "Arithmetical Circle" is a pure mathematical abstract but useful concept and algorithm that is researched and implemented by Nelson, LAN. Gratefully, there was a local maths competition that provide me with this mystery.
@@ -10,5 +11,11 @@ They are included with prefixes -- "Arithmetical Circle". "Arithmetical Circle a
 
 For that theory and concept, we assume one example was given on top of the paper (`pdf` file), where the realm started. 
 
-Single, and step-by-step proof to build up this logic and algorithm from ground zero; using proved statements to expand to different aspects of calculation; finally making the product ("Arithmetical Circle").
+Single, and step-by-step proof to build up this logic and algorithm from ground zero; using proved statements to expand to different aspects of calculation; finally making the product ("Arithmetical Circle").=
+
+<hr>
+
+Check out design and implementation documentation here for detail:
+
+https://github.com/nelsonlan01/ArithmeticalCircle/blob/Documentation/Arithmetical%20Circle.PDF
 
