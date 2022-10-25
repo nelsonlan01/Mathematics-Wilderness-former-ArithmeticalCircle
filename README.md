@@ -3,7 +3,7 @@
 
 The "Arithmetical Circle" is a python tool and API function that proposed to contribute and extend code in `math` dot functions.
 
-"Arithmetical Circle" is a pure mathematical abstract but useful concept and algorithm that is researched and implemented by Nelson, LAN. Gratefully, there was a local maths competition that provide me with this mystery.
+"Arithmetical Circle" is a pure mathematical abstract but useful concept and algorithm that is researched and implemented by Nelson, LAN. Gratefully, there was a local maths competition that inspired me this mystery.
 
 Which contain 4 different aspects to calculate numbers in different similar but work out completely distinctive answers.
 
