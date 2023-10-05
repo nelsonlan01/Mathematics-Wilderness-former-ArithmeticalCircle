@@ -19,3 +19,18 @@ Check out design and implementation documentation here for detail:
 
 https://github.com/nelsonlan01/ArithmeticalCircle/blob/Documentation/Arithmetical%20Circle.PDF
 
+===================
+
+# Arithmetical Circle Expansion Pack — Polygon and Pyramid
+
+This is an expansion pack of the “Arithmetical Circle” API function that developed in mid-2020 and contributed to Hacktoberfest 2022. 
+
+These contributions are originally a private calculating API for other game-related projects that maintain by me, and have educational purposes in Primary school mathematics education for P3, P5 gifted education.
+
+“Polygon and Pyramid” expansion pack by the name itself to calculate the polygonal and polyhedral number, but it is not constrained to specify sides of the shape, but up to infinite sides of the polygon. 
+
+However, the pyramidal number calculation is very different, hard to implement solid, dictatable formulas so.
+
+The .pdf file also attached some drawn figures to demonstrate the first 4 polygonal and first 3 polyhedral numbers.
+
+Check out design and implementation documentation here for detail:
